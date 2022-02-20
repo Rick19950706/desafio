@@ -42,6 +42,47 @@ Anagramas : [i, i, q, q, ifa, fai]
 Quantidade: 3
 ```
 
+>Metodo da Class br.com.rick.desafio.principal.Main:
+
+```
+package br.com.rick.desafio.principal;
+
+import br.com.rick.desafio.principal.questoes.QuestaoAnagrama;
+import br.com.rick.desafio.principal.questoes.QuestaoEscada;
+import br.com.rick.desafio.principal.questoes.QuestaoSenha;
+
+public class Main {
+    public static void main(String[] args) {
+        new QuestaoSenha().validar("Ya3");
+        new QuestaoEscada().build(6);
+        new QuestaoAnagrama().find("ifailuhkqq");
+    }
+}
+
+Saidas:
+-------Resultado da verificação
+Senha   : Ya3
+Sugestão: Ya3&kx
+Sua senha é fraca veja a sugestão para uma senha forte.
+-------------------------------
+
+-----------Construção da escada
+     *
+    **
+   ***
+  ****
+ *****
+******
+-------------------------------
+
+----Procurando por de Anagramas
+Anagramas : [i, i, q, q, ifa, fai]
+Quantidade: 3
+-------------------------------
+
+```
+
+
 > nome: Ricardo Henrique Pereira da Silva 
 > 
 > Email: ricardohenriquesilva95@gmail.com
