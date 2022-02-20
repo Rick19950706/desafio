@@ -1,6 +1,6 @@
 ![topo2](https://user-images.githubusercontent.com/98782996/154866070-dfcbe39b-009b-499a-9fe4-23d1b641b92b.png)
 
-#### Segue abaixo instruções para execução dos questionariois, no pacote <strong style="color:gray">br.com.rick.desafio.principal</strong> tem uma class Main com o metodo static main, nesse metodo a o exemplo de execução da questão
+#### Segue abaixo instruções para execução dos questionariois, no pacote <strong style="color:gray">br.com.rick.desafio.principal</strong> tem uma class Main com o metodo static main, nesse metodo tem os exemplo de execução da questão
 
 
 
