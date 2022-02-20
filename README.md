@@ -23,7 +23,7 @@ Saida:
 >
 
 ```
-new QuestaoEscada().build(6);
+new QuestaoSenha().validar("Ya3");
 
 Saida:
 Senha   : Ya3
@@ -35,7 +35,7 @@ Sua senha é fraca veja a sugestão para uma senha forte.
 >
 
 ```
-new QuestaoEscada().build(6);
+new QuestaoAnagrama().find("ifailuhkqq");
 
 Saida:
 Anagramas : [i, i, q, q, ifa, fai]
